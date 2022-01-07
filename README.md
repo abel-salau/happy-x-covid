@@ -1,4 +1,4 @@
-# happy-x-covid
+# <u>happy-x-covid</u>
 
 Using the numpy, pandas, beautiful soup and sklearn libraries, 
 I webscrapped data on from several sources such as: Worldometer, John Hopkins CSSEGIS University, World Happiness Report to provide a Data set on countries ranked by happiness with information on their population and COVID-19
